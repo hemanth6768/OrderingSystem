@@ -1,0 +1,46 @@
+## Ignore Visual Studio temporary files, build results, and
+## other unnecessary files.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Auto-generated files (backup)
+*.bak
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code directory
+.vscode/
+
+# .NET Core User Secrets
+secrets.json
+
+# ASP.NET Core Config Files
+appsettings.Development.json
+
+# Other
+**/packages/
